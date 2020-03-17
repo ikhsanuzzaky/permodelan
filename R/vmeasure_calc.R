@@ -1,4 +1,4 @@
-#' V-measure calculation test edit
+#' V-measure calculation test edit lagi
 #'
 #' It calculates a degree of spatial association between regionalizations using
 #' an information-theoretical measure called the V-measure
